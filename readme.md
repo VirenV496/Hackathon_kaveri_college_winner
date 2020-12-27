@@ -8,3 +8,5 @@ Screenshots Of Web Pages
 
 ![ActiveityPage2](https://user-images.githubusercontent.com/65226860/103178456-f52ced80-48a8-11eb-8f4e-ac0c6ad9fbfd.png)
 
+![server videos option](https://user-images.githubusercontent.com/65226860/103178465-fcec9200-48a8-11eb-97c5-21935f6918cf.png)
+
