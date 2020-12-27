@@ -12,3 +12,6 @@ Screenshots Of Web Pages
 
 ![ServerVideo](https://user-images.githubusercontent.com/65226860/103178469-037b0980-48a9-11eb-98fa-deaadfe0ede6.png)
 
+
+![FAQ](https://user-images.githubusercontent.com/65226860/103178516-71273580-48a9-11eb-8daf-468d29547d7c.png)
+
