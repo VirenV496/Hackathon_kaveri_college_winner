@@ -37,7 +37,7 @@ body, html {
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("public/images/badal.jpg");
+  background-image: url("");
   min-height: 400px;
 }
 
