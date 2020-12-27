@@ -6,3 +6,5 @@ Screenshots Of Web Pages
 
 ![ActiveityPage](https://user-images.githubusercontent.com/65226860/103178420-ac753480-48a8-11eb-8b45-249ff56c0032.png)
 
+![ActiveityPage2](https://user-images.githubusercontent.com/65226860/103178456-f52ced80-48a8-11eb-8f4e-ac0c6ad9fbfd.png)
+
